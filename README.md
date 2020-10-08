@@ -2,7 +2,7 @@
 The project is made using JavaScript and is a multiplayer game for 2 players where the objective is to score 100 points first.
 
 ## Screenshot
-<img src="ss.JPG" height=500px>
+<img src="ss.JPG" height=450px>
 
 ## Live demo
 https://drockoda.github.io/Pig-game/
